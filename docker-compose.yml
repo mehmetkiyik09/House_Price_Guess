@@ -1,0 +1,14 @@
+  services:
+    ev_tahmini_api:
+      build: .
+      container_name: ml_ev_tahmini
+      restart: unless-stopped
+
+      networks:
+        - proxy_network
+
+
+
+  networks:
+    proxy_network:
+      external: true

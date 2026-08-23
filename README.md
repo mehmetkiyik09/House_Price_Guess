@@ -31,8 +31,8 @@ You can test the live API and explore the interactive Swagger documentation here
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git)
-   cd YOUR_REPOSITORY_NAME
+   git clone https://github.com/mehmetkiyik09/House_Price_Guess.git
+   cd House_Price_Guess
 
 Run with Docker Compose:
 
